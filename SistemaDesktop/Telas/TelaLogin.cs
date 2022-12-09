@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿using SistemaDesktop.Modelo;
-using SistemaDesktop.Telas;
 using System;
 using System.Windows.Forms;
 =======
