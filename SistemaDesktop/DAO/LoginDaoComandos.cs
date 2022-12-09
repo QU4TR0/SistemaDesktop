@@ -1,10 +1,14 @@
 ﻿using System;
+<<<<<<< HEAD
+using System.Data.SqlClient;
+=======
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SistemaDesktop.Modelo;
+>>>>>>> cf1084e6e38ac073a206ad4280108ea9a981c9d8
 
 namespace SistemaDesktop.DAO
 {
@@ -34,7 +38,11 @@ namespace SistemaDesktop.DAO
             }
             catch (SqlException)
             {
+<<<<<<< HEAD
+                this.mensagem = "Erro com Banco de Dados";
+=======
                 this.mensagem = "Erro com Banco de Dados"; 
+>>>>>>> cf1084e6e38ac073a206ad4280108ea9a981c9d8
             }
             return tem;
         }

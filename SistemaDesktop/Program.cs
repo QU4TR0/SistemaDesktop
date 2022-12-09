@@ -1,7 +1,10 @@
 ﻿using System;
+<<<<<<< HEAD
+=======
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+>>>>>>> cf1084e6e38ac073a206ad4280108ea9a981c9d8
 using System.Windows.Forms;
 
 namespace SistemaDesktop

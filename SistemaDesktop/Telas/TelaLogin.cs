@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+﻿using SistemaDesktop.Modelo;
+using SistemaDesktop.Telas;
+using System;
+using System.Windows.Forms;
+=======
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,6 +17,7 @@ using System.Data.Sql;
 using System.Data.SqlClient;
 using SistemaDesktop.Modelo;
 using SistemaDesktop.Telas;
+>>>>>>> cf1084e6e38ac073a206ad4280108ea9a981c9d8
 
 namespace SistemaDesktop
 {

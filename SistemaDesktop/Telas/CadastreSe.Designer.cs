@@ -43,9 +43,15 @@
             this.lblEmail.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEmail.Location = new System.Drawing.Point(24, 30);
             this.lblEmail.Name = "lblEmail";
+<<<<<<< HEAD
+            this.lblEmail.Size = new System.Drawing.Size(91, 30);
+            this.lblEmail.TabIndex = 0;
+            this.lblEmail.Text = "Usuário:";
+=======
             this.lblEmail.Size = new System.Drawing.Size(69, 30);
             this.lblEmail.TabIndex = 0;
             this.lblEmail.Text = "Email:";
+>>>>>>> cf1084e6e38ac073a206ad4280108ea9a981c9d8
             // 
             // txtEmail
             // 

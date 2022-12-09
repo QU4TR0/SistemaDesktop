@@ -1,0 +1,13 @@
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\bin\Debug\SistemaDesktop.exe.config
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\bin\Debug\SistemaDesktop.exe
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\bin\Debug\SistemaDesktop.pdb
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.csproj.AssemblyReference.cache
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.Properties.Resources.resources
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.csproj.GenerateResource.cache
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.csproj.CoreCompileInputs.cache
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.exe
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.pdb
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.TelaMenu.resources
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.TelaLogin.resources
+D:\Faculdade\Projeto 4º Semestre\SistemaDesktop\SistemaDesktop\obj\Debug\SistemaDesktop.Telas.CadastreSe.resources
